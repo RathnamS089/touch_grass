@@ -8,6 +8,8 @@ export const outdoorPlaces: OutdoorPlace[] = [
     distance: "1.8 km",
     description: "A quiet place for a short walk.",
     imageUrl: "/images/cubbon-park.jpg",
+    lat: 12.9763,
+    lon: 77.5929,
   },
   {
     id: "lalbagh",
@@ -16,6 +18,8 @@ export const outdoorPlaces: OutdoorPlace[] = [
     distance: "3.2 km",
     description: "A slower route with shade, stone paths, and room to breathe.",
     imageUrl: "/images/lalbagh.jpg",
+    lat: 12.9507,
+    lon: 77.5848,
   },
   {
     id: "ulsoor-lake",
@@ -24,6 +28,8 @@ export const outdoorPlaces: OutdoorPlace[] = [
     distance: "2.7 km",
     description: "A waterside loop for when your eyes need a wider horizon.",
     imageUrl: "/images/ulsoor-lake.jpg",
+    lat: 12.9812,
+    lon: 77.6216,
   },
   {
     id: "neighborhood-park",
@@ -32,6 +38,8 @@ export const outdoorPlaces: OutdoorPlace[] = [
     distance: "0.5 km",
     description: "A small local park perfect for a quick break.",
     imageUrl: "/images/neighborhood-park.jpg",
+    lat: 12.9716,
+    lon: 77.5946,
   },
   {
     id: "scenic-trail",
@@ -40,6 +48,8 @@ export const outdoorPlaces: OutdoorPlace[] = [
     distance: "2.1 km",
     description: "A peaceful trail with beautiful views and fresh air.",
     imageUrl: "/images/scenic-trail.jpg",
+    lat: 12.9137,
+    lon: 77.6101,
   },
 ];
 

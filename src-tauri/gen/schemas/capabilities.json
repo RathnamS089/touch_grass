@@ -1,1 +1,1 @@
-{}
+{"main-capability":{"identifier":"main-capability","description":"Default capability for the main window: grants the webview IPC access to core APIs (incl. events) and app commands","local":true,"windows":["main"],"permissions":["core:default","notification:default"]}}

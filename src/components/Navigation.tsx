@@ -22,7 +22,7 @@ export function Navigation({ current, onNavigate }: NavigationProps) {
       </button>
       <div className="navigation__links">
         {items.slice(1).map(({ screen, label, icon: Icon }) => (
-          <button className={current === screen ? "navigation__link is-active" : "navigation__link"} onClick={() => onNavigate(screen)} type="button" key={screen}>
+          <button className={current === screen ? "navigation__link is-active" : "navigation__link"} aria-label={label} aria-current={current === screen ? "page" : undefined} title={label} onClick={() => onNavigate(screen)} type="button" key={screen}>
             <Icon size={16} />
             <span>{label}</span>
           </button>

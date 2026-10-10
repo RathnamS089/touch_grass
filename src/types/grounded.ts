@@ -14,6 +14,8 @@ export interface OutdoorPlace {
   distance: string;
   description: string;
   imageUrl?: string;
+  lat?: number;
+  lon?: number;
 }
 
 export interface GroundedMessageProps {

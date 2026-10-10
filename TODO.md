@@ -13,3 +13,14 @@
 11. Update App.tsx with new state management
 12. Create instruction.md and memory.md documentation files
 14. Run build and verify frontend works
+
+# Grounded Backend Implementation TODO
+1. [x] TODO 1 — TAURI/RUST FOUNDATION
+2. [x] TODO 2 — MACOS ACTIVITY MONITOR
+3. [x] TODO 3 — EPHEMERAL SESSION ENGINE
+4. [x] TODO 4 — THRESHOLD ENGINE
+5. [x] TODO 5 — NEARBY PLACE DISCOVERY
+6. [x] TODO 6 — RECOMMENDATION ENGINE
+7. [x] TODO 7 — NOTIFICATION / EVENT LAYER
+8. [x] TODO 8 — SUPABASE PERSISTENCE
+9. [x] TODO 9 — FINAL TAURI API CONTRACT
